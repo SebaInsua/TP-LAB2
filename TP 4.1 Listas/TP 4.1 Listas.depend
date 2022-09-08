@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1600555107 source:c:\users\mosta\desktop\tp 4.1 listas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listas.h"
+	"Pila.h"
+
+1600555107 c:\users\mosta\desktop\tp 4.1 listas\listas.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"persona.h"
+
+1600298608 c:\users\mosta\desktop\tp 4.1 listas\persona.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1600305172 source:c:\users\mosta\desktop\tp 4.1 listas\persona.c
+	"persona.h"
+
+1600555732 source:c:\users\mosta\desktop\tp 4.1 listas\listas.c
+	"listas.h"
+
+1600481953 c:\users\mosta\desktop\tp 4.1 listas\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<malloc.h>
+	"persona.h"
+	"listas.h"
+
+1600484733 source:c:\users\mosta\desktop\tp 4.1 listas\pila.c
+	"Pila.h"
+
+1600305172 source:c:\users\mosta\desktop\facultad\programacion ii\tp큦\tp 4.1 listas\persona.c
+	"persona.h"
+
+1600298608 c:\users\mosta\desktop\facultad\programacion ii\tp큦\tp 4.1 listas\persona.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1600484733 source:c:\users\mosta\desktop\facultad\programacion ii\tp큦\tp 4.1 listas\pila.c
+	"Pila.h"
+
+1600481953 c:\users\mosta\desktop\facultad\programacion ii\tp큦\tp 4.1 listas\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<malloc.h>
+	"persona.h"
+	"listas.h"
+
+1601596355 c:\users\mosta\desktop\facultad\programacion ii\tp큦\tp 4.1 listas\listas.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"persona.h"
+
+1601596206 source:c:\users\mosta\desktop\facultad\programacion ii\tp큦\tp 4.1 listas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listas.h"
+	"Pila.h"
+
+1601671877 source:c:\users\mosta\desktop\facultad\programacion ii\tp큦\tp 4.1 listas\listas.c
+	"listas.h"
+
+1601671877 source:c:\users\mosta\desktop\facultad\programacion ii\tp큦\tp 4.1\tp 4.1 listas\listas.c
+	"listas.h"
+
+1601596355 c:\users\mosta\desktop\facultad\programacion ii\tp큦\tp 4.1\tp 4.1 listas\listas.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"persona.h"
+
+1600298608 c:\users\mosta\desktop\facultad\programacion ii\tp큦\tp 4.1\tp 4.1 listas\persona.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1601596206 source:c:\users\mosta\desktop\facultad\programacion ii\tp큦\tp 4.1\tp 4.1 listas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listas.h"
+	"Pila.h"
+
+1600481953 c:\users\mosta\desktop\facultad\programacion ii\tp큦\tp 4.1\tp 4.1 listas\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<malloc.h>
+	"persona.h"
+	"listas.h"
+
+1600305172 source:c:\users\mosta\desktop\facultad\programacion ii\tp큦\tp 4.1\tp 4.1 listas\persona.c
+	"persona.h"
+
+1600484733 source:c:\users\mosta\desktop\facultad\programacion ii\tp큦\tp 4.1\tp 4.1 listas\pila.c
+	"Pila.h"
+
