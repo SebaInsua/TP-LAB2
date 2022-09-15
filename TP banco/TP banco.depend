@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1663264937 source:c:\users\sebon\onedrive\escritorio\tp banco\tp banco\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"tda_lista_simple.h"
+
+1663265033 source:c:\users\sebon\onedrive\escritorio\tp banco\tp banco\tda_lista_simple.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"tda_lista_simple.h"
+
+1663264495 c:\users\sebon\onedrive\escritorio\tp banco\tp banco\tda_lista_simple.h
+
